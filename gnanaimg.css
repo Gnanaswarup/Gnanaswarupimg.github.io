@@ -1,0 +1,29 @@
+h1{
+    font-size: 50px;
+    color: rgb(172, 48, 154);
+    padding-top: 20px;
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+#one{
+    width: 500px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+#two{
+    width: 500px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+#three{
+    width: 500px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+#four{
+    width: 500px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
